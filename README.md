@@ -1,7 +1,7 @@
-$python app.py$ - запуск приложения
+'''python app.py''' - запуск приложения
 
-$movies.db$ - база данных приложения, сейчас заполнена данными из $kinopoisk-top250.csv$ c помощью скрипта $import_movies.py$
+'''movies.db''' - база данных приложения, сейчас заполнена данными из '''kinopoisk-top250.csv''' c помощью скрипта '''import_movies.py'''
 
-$database.py$ - структура бд
+'''database.py''' - структура бд
 
-$templates$ - шаблоны страниц
+'''templates''' - шаблоны страниц
