@@ -3,7 +3,6 @@ import sqlite3, math
 from database import init_db
 
 app = Flask(__name__)
-app.secret_key = 'your_secret_key_here'
 
 MOVIES_PER_PAGE = 5
 
